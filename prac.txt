@@ -1,3 +1,5 @@
 1. create login page
 
 2.add friends
+
+3.add text feature
